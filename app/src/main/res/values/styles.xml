@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:title">#fff</item>
+    </style>
+
+    <style name="White" parent="Base.Widget.AppCompat.ProgressBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#FFF</item>
+        <item name="colorPrimaryDark">#FFF</item>
+        <item name="colorAccent">#FFF</item>
+        <item name="colorBackgroundFloating">#FFF</item>
+        <item name="android:color">#fff</item>
+        <item name="android:solidColor">#fff</item>
+    </style>
+
+
+</resources>

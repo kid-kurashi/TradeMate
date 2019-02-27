@@ -1,0 +1,50 @@
+{
+  materials: [
+    {
+      name: '1.m.onetex',
+      parameters: [
+        {
+          baseColor: '1.m.onetex_baseColor',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'TexCoord',
+      'Orientation',
+    ],
+    collision: {},
+    file: 'sampledata/vending machine 10.obj',
+    name: 'vending machine 10',
+    recenter: 'root',
+    scale: 0.0010870000000000001,
+  },
+  samplers: [
+    {
+      file: 'sampledata/1.m.onetex_baseColor.jpeg',
+      name: '1.m.onetex_baseColor',
+      pipeline_name: '1.m.onetex_baseColor.jpeg',
+    },
+  ],
+  version: '0.54:1',
+}

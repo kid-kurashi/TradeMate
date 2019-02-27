@@ -1,0 +1,365 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 02.05.2018 04:58:40
+
+newmtl Fingernails
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\Fingernails_DiffuseColor_Composite.tga
+	map_Kd c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\Fingernails_DiffuseColor_Composite.tga
+
+newmtl Toenails
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\Toenails_DiffuseColor_Composite.tga
+	map_Kd c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\Toenails_DiffuseColor_Composite.tga
+
+newmtl Material__25
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\P3DFaithTorso_1002.jpeg
+	map_Kd c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\P3DFaithTorso_1002.jpeg
+
+newmtl Material__26
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\P3DFaithArms_1004.jpeg
+	map_Kd c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\P3DFaithArms_1004.jpeg
+
+newmtl Material__27
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\P3DFaithLegs_1003.jpeg
+	map_Kd c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\P3DFaithLegs_1003.jpeg
+
+newmtl Material__39
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\tex_kami0.tga.png
+	map_Kd c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\tex_kami0.tga.png
+
+newmtl Material__35
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\P3DFaithFace_1001.jpeg
+	map_Kd c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\P3DFaithFace_1001.jpeg
+
+newmtl Lips
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\Lips_DiffuseColor_Composite.tga
+	map_Kd c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\Lips_DiffuseColor_Composite.tga
+
+newmtl Pupils
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\Pupils_DiffuseColor_Composite.tga
+	map_Kd c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\Pupils_DiffuseColor_Composite.tga
+
+newmtl Teeth
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\Teeth_DiffuseColor_Composite.tga
+	map_Kd c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\Teeth_DiffuseColor_Composite.tga
+
+newmtl Ears
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\Ears_DiffuseColor_Composite.tga
+	map_Kd c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\Ears_DiffuseColor_Composite.tga
+
+newmtl Material__33
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\P3DFaithEyes01_1007.jpeg
+	map_Kd c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\P3DFaithEyes01_1007.jpeg
+
+newmtl EyeSocket
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.9333 0.8784 0.7843
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\EyeSocket_DiffuseColor_Composite.tga
+	map_Kd c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\EyeSocket_DiffuseColor_Composite.tga
+
+newmtl Mouth
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\Mouth_DiffuseColor_Composite.tga
+	map_Kd c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\Mouth_DiffuseColor_Composite.tga
+
+newmtl 02___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0510 0.0196 0.0196
+	Kd 0.0510 0.0196 0.0196
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 03___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0118 0.0118 0.0118
+	Kd 0.0118 0.0118 0.0118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl label
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.4549 0.4549 0.4549
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\label_DiffuseColor_Composite.tga
+	map_Kd c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\label_DiffuseColor_Composite.tga
+
+newmtl Upper
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8549 0.0078 0.2196
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\Upper_DiffuseColor_Composite.tga
+	map_Kd c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\Upper_DiffuseColor_Composite.tga
+
+newmtl Inner
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8510 0.7176 0.6000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\Inner_DiffuseColor_Composite.tga
+	map_Kd c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\Inner_DiffuseColor_Composite.tga
+
+newmtl Zip_Metal
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.9765 0.9765 0.7647
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Insole
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8196 0.6902 0.5804
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\Insole_DiffuseColor_Composite.tga
+	map_Kd c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\Insole_DiffuseColor_Composite.tga
+
+newmtl Outsole
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Heel
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.7647 0.0000 0.1922
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Heel_Tip
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Zip_Cloth
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8392 0.8392 0.8392
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\Zip_Cloth_DiffuseColor_Composite.tga
+	map_Kd c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\Zip_Cloth_DiffuseColor_Composite.tga
+
+newmtl Sole
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.7647 0.0000 0.1922
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__38
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd c:\users\pc-8\desktop\s health\new folder\people\women fima n170412\tex_kami0.tga.png

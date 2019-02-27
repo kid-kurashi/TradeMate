@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TradeMate</string>
+    <string name="toggle_grid">Toggle Grid</string>
+    <string name="clear_all">Clear All</string>
+    <string name="toolbar_more">Actions</string>
+    <string name="select_model">Select Model</string>
+</resources>

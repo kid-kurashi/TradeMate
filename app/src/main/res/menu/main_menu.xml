@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/toggle_grid"
+        android:icon="@drawable/toggle_grid"
+        android:title="@string/toggle_grid" />
+    <item
+        android:id="@+id/clear_all"
+        android:icon="@drawable/clear_all"
+        android:title="@string/clear_all" />
+    <item
+        android:id="@+id/select_model"
+        android:icon="@drawable/select_model"
+        android:title="@string/select_model" />
+</menu>

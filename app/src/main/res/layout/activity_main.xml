@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="model"
+            type="ru.dwdm.trademate.MainActivityViewModel" />
+    </data>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFF"
+        tools:context=".MainActivity">
+
+        <fragment
+            android:id="@+id/ux_fragment"
+            android:name="ru.dwdm.trademate.WritingFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <ImageButton
+            android:id="@+id/screenshot_button"
+            style="@style/Base.Widget.AppCompat.Button.Borderless"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:layout_gravity="bottom|center_horizontal"
+            android:layout_margin="72dp"
+            android:scaleType="center"
+            android:src="@drawable/screenshot"
+            android:theme="@style/Base.Widget.AppCompat.Button.Borderless" />
+
+        <ProgressBar
+            android:id="@+id/saving_progress"
+            style="@style/White"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_gravity="center"
+            android:theme="@style/White"
+            android:visibility="gone" />
+
+        <ImageButton
+            android:id="@+id/more"
+            style="@style/Base.Widget.AppCompat.Button.Borderless"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_gravity="top|end"
+            android:layout_margin="16dp"
+            android:padding="16dp"
+            android:scaleType="center"
+            android:src="@drawable/more"
+            android:theme="@style/Base.Widget.AppCompat.Button.Borderless" />
+
+        <ImageButton
+            android:id="@+id/back"
+            style="@style/Base.Widget.AppCompat.Button.Borderless"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_gravity="top|start"
+            android:layout_margin="16dp"
+            android:padding="16dp"
+            android:scaleType="center"
+            android:src="@drawable/back"
+            android:theme="@style/Base.Widget.AppCompat.Button.Borderless" />
+    </FrameLayout>
+</layout>
